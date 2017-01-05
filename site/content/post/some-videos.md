@@ -22,6 +22,11 @@ Video 2
 
 {{< youtube ppKuZM5W6Q4 >}}
 
+Video 3
+-------
+
+{{< youtube RJ3v5cSNcB8 >}}
+
 Some Code
 ---------
 

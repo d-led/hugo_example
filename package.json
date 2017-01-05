@@ -1,0 +1,21 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "for search",
+  "main": "Gruntfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syati/blog.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/d-led/hugo_example"
+  },
+  "homepage": "https://github.com/d-led/hugo_example",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "string": "^3.3.3",
+    "toml": "^2.3.1"
+  }
+}
