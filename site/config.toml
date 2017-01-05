@@ -3,6 +3,7 @@ title = "A simple Hugo site"
 baseurl = "/"
 theme = "hugo-theme-bootstrap4-blog"
 paginate = 5
+copyright = "collective"
 
 [[menu.sidebar]]
   name = "Link 1"
@@ -25,3 +26,6 @@ paginate = 5
 [params.sharingicons]
     # Hide the sharing icons on posts? (Default: false)
     hide = true
+
+[author]
+  name = "collective"
