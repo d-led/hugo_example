@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "A simple Hugo site"
-baseurl = "http://ledentsov.de"
+baseurl = "/"
 theme = "hugo-theme-bootstrap4-blog"
 paginate = 5
 
