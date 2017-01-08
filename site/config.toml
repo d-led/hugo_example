@@ -6,8 +6,8 @@ paginate = 5
 copyright = "collective"
 
 [[menu.sidebar]]
-  name = "Link 1"
-  url = "https://example.com"
+  name = "Google"
+  url = "https://google.com"
 
 [params]
   # Site author
@@ -19,6 +19,8 @@ copyright = "collective"
   # Format dates with Go's time formatting
   date_format = "Mon Jan 02, 2006"
 
+  custom_navbar = true
+
 [params.sidebar]
     # Optional about block for sidebar (can be Markdown)
     about = "A simple Hugo theme based on the [Bootstrap v4 blog example](http://v4-alpha.getbootstrap.com/examples/blog/)."
@@ -29,3 +31,7 @@ copyright = "collective"
 
 [author]
   name = "collective"
+
+[[menu.navbar]]
+  name = "category: tag1"
+  url = "/tags/tag1/"
